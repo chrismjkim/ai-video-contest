@@ -1,0 +1,22 @@
+# Obsidian 개인 작업 상태
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache/
+.trash/
+
+# API 키·환경 변수
+.env
+.env.*
+!.env.example
+
+# OS·에디터 임시 파일
+.DS_Store
+[Tt]humbs.db
+[Dd]esktop.ini
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+~$*
