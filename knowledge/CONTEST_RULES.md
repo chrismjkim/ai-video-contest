@@ -16,13 +16,15 @@ target_contest: 2026 OYE AI 숏드라마 챌린지 EP.01
 1. [공식 공모전 페이지](https://oyecontent.wixstudio.com/oyeshortdrama)
 2. [공식 연결 참가 Google Form](https://forms.gle/6ppYB2oD1nAPEVDB7)
 3. [공식 연결 작품 설정 문서](https://docs.google.com/document/d/17qti9Bm_yu36m0b2_3SjFSNvyygjfCSB/edit?usp=sharing&ouid=115173005870022005903&rtpof=true&sd=true)
-4. 교차 확인: [링커리어](https://linkareer.com/activity/342916), [위비티](https://www.wevity.com/index_university.php?c=find&cidx=10&gbn=viewok&gp=2&gub=1&ix=110140&s=_university), [CODE:C](https://www.code-c.kr/post/contest/544545), [씽유](https://thinkyou.co.kr/mobile/contest/65994/)
+4. 교차 확인: [링커리어](https://linkareer.com/activity/342916), [위비티](https://www.wevity.com/index_university.php?c=find&cidx=10&gbn=viewok&gp=2&gub=1&ix=110140&s=_university), [CODE:C](https://www.code-c.kr/post/contest/544545), [씽유](https://thinkyou.co.kr/mobile/contest/65994/), [콘테스트코리아](https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202608140005) (확인일 2026-08-26)
 
 ## 복수 출처에서 일치한 현재 요건
 
 | 항목 | 현재 파악 내용 | 검증 메모 |
 |---|---|---|
 | 공모전 | 2026 OYE AI 숏드라마 챌린지: EP.01 | 공식 링크와 공고명 일치 |
+| 주최·주관 | 주최: 미디어그룹테이크투 / 주관: OYE | 콘테스트코리아만 확인, 공식 페이지에서 재확인 필요 |
+| 참가 비용 | 무료 | 콘테스트코리아 표기, 공식 페이지 재확인 필요 |
 | 접수 기간 | 2026-08-12 ~ 2026-09-13 | 일부 사이트 메타데이터만 시작일을 08-11로 표기 |
 | 참가 자격 | 만 14세 이상, 개인 또는 팀 | 팀 인원 상한 미확인 |
 | 주제·표현 형식 | 장르 제한 없음, 실사형·애니메이션형 등 가능 | 샘플 영상은 공식 페이지에서 별도 확인 필요 |
@@ -92,4 +94,5 @@ target_contest: 2026 OYE AI 숏드라마 챌린지 EP.01
 | 확인일 | 변경 | 근거 |
 |---|---|---|
 | 2026-08-26 | 최초 교차 정리, 공식 본문 직접 확인 대기 | 위 출처 |
+| 2026-08-26 | 콘테스트코리아 페이지 교차 확인 추가: 주최(미디어그룹테이크투)·주관(OYE) 및 참가 비용(무료) 신규 확인, 접수기간·시상·규격 등 기존 항목과 일치 | [콘테스트코리아](https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202608140005) |
 
