@@ -1,7 +1,7 @@
 ---
 type: home
 status: active
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # AI 숏드라마 프로젝트 홈
@@ -24,6 +24,7 @@ updated: 2026-08-26
 | 제안·폐기 아이디어 | [[project/IDEA_REGISTER]] |
 | 공모전 규정과 검증 대기 항목 | [[knowledge/CONTEST_RULES]] |
 | Higgsfield·AI Video 프로젝트 학습 | [[knowledge/PROJECT_PRACTICES]] |
+| 원본 이미지 레퍼런스와 관리 규칙 | [[assets/references/README]] |
 | 멀티에이전트 제작 흐름 | [[production/PIPELINE]] |
 | 전체 Shot 현황 | [[production/SHOT_INDEX]] |
 
@@ -42,7 +43,7 @@ updated: 2026-08-26
 - `project/`: 인간의 프로젝트 맥락, 회의, 결정, Canon, 미결 질문
 - `knowledge/`: 출처가 있는 외부 규정과 프로젝트에서 검증된 특수 지식
 - `production/`: Shot, 프롬프트, 멀티에이전트 검토, 생성 Run
+- `assets/references/`: Git LFS로 저장·공유하는 원본 이미지 레퍼런스
 - `templates/`: 반복 기록용 최소 골격
 
-대용량 참조 이미지와 생성 영상의 저장 위치는 아직 정하지 않았다. 정책이 확정되기 전에는 Vault 안에 무분별하게 복사하지 말고 Run에 현재 경로 또는 URL만 기록한다.
-
+원본 참조 이미지는 `assets/references/`에서 관리한다. 생성 영상과 기타 대용량 출력의 저장·백업 정책은 아직 정하지 않았으므로, 정책 확정 전에는 Run에 현재 경로 또는 URL만 기록한다.
