@@ -6,7 +6,7 @@ created: 2026-09-03
 decided_by: [사용자]
 accepted_at: 2026-09-03
 supersedes: []
-superseded_by:
+superseded_by: "[[project/decisions/DEC-005-윤서하-외형-리얼리즘-수정-확정]]"
 related:
   - "[[project/decisions/DEC-001-윤서하-외형-확정]]"
   - "[[assets/references/characters/윤서하/Seoha_Visual_Reference]]"

@@ -24,10 +24,11 @@ updated: 2026-08-26
 
 ## Higgsfield 플랫폼 사실
 
-현재 기록된 사실 없음. 모델명, 기능, 요금, 제한은 사용할 시점에 공식 정보로 확인한다.
-
 | 항목 | 사실 | 확인일 | 공식 출처 | 상태 |
 |---|---|---|---|---|
+| Cinema Studio 범위 | Cinema Studio(2.0/3.0/4.0)는 AI Cast(캐릭터 생성), 씬 간 캐릭터 일관성, 컬러 그레이딩 등 영상·씬 생성에 초점을 둔 도구다. 공식 페이지에 기존 업로드 이미지를 보정하는 기능은 명시되어 있지 않다. | 2026-09-05 | [Cinema Studio](https://higgsfield.ai/cinematic-video-generator), [Cinema Studio 4.0](https://higgsfield.ai/generate), [Cinema Studio 2.0 가이드](https://higgsfield.ai/blog/cinema-studio-guide) | `platform-fact` |
+| 이미지 보정 도구는 별도 기능 | 기존 이미지를 업로드해 보정하는 기능은 Cinema Studio가 아니라 별도의 "AI Image Editing & In-painting"(Higgsfield Edit/Canvas) 도구다. JPG/PNG/WebP, 최대 4K 업로드를 지원하며 마스크 브러시 inpainting, Magic Eraser, 배경 제거, Enhancer(얼굴 리터칭), 별도 Upscaler(2x~16x, 1080p~8K)를 제공한다. | 2026-09-05 | [AI Image Editing](https://higgsfield.ai/image-editing), [AI Photo Editor](https://higgsfield.ai/ai-image-editor), [AI Image Upscaler](https://higgsfield.ai/ai-image-upscaler) | `platform-fact` |
+| Identity 보존 미보장 | 공식 자료는 "마스크한 영역만 국소적으로 수정한다"고만 설명할 뿐, 얼굴 identity를 보존한다는 명시적 보장 문구는 확인되지 않았다. Enhancer는 얼굴 구조를 재구성한다고 설명하므로 확정 캐릭터의 identity 드리프트 위험이 있다. | 2026-09-05 | 위와 동일 | `platform-fact`(도구 설명 기준) / identity 보존 여부 자체는 `working-hypothesis` |
 
 ## 승인된 프로젝트 원칙
 
