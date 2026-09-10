@@ -27,6 +27,7 @@ updated: 2026-09-03
 | 원본 이미지 레퍼런스와 관리 규칙 | [[assets/references/README]] |
 | 멀티에이전트 제작 흐름 | [[production/PIPELINE]] |
 | 전체 Shot 현황 | [[production/SHOT_INDEX]] |
+| 로케이션별 씬·구도 계획 | [[production/LOCATION_INDEX]] |
 
 ## 기록 루틴
 
@@ -35,8 +36,9 @@ updated: 2026-09-03
 3. 승인된 Decision과 함께 `PROJECT_BRIEF.md`, `CANON.md`, `OPEN_QUESTIONS.md` 중 영향받는 단일 원본을 갱신한다.
 4. 채택하지 않은 아이디어도 이유와 재검토 조건을 `IDEA_REGISTER.md` 또는 `templates/IDEA.md`에 남긴다.
 5. 컷이 정해지면 `templates/SHOT.md`를 복사하고 `SHOT_INDEX.md`에 한 줄을 추가한다.
-6. 실제 생성마다 `templates/RUN.md`를 복사한다. 결과가 나빠도 삭제하지 않는다.
-7. 여러 Run에서 반복 확인된 학습만 `PROJECT_PRACTICES.md` 승격 후보로 올린다.
+6. 로케이션별 씬·구도 후보는 `production/LOCATION_INDEX.md`와 `production/locations/`에 기록하고, 확정된 구도만 Shot으로 분리한다.
+7. 실제 생성마다 `templates/RUN.md`를 복사한다. 결과가 나빠도 삭제하지 않는다.
+8. 여러 Run에서 반복 확인된 학습만 `PROJECT_PRACTICES.md` 승격 후보로 올린다.
 
 ## 폴더 책임
 
